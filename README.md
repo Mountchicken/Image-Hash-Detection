@@ -6,6 +6,6 @@
 ![image](https://github.com/Mountchicken/Image-Hash-Detection/blob/main/%E6%8D%95%E8%8E%B73.JPG)
 
 # Contact me
-email:mountchicken#outlook.com
+- email:mountchicken@outlook.com
 
 
